@@ -21,7 +21,7 @@ body h1 h3{
     align-items: center;
     padding: 0 36px;
     box-sizing: border-box;
-    position: fixed;
+    /* position: fixed; */
     z-index: 9999999999;
     box-shadow: 1px 4px 6px 1px #00000047;
 }
@@ -93,7 +93,7 @@ p.level {
 
 /* fastselide */
 .fastselideback{
-    background: url("img/back/GLOBE.jpg");
+    background: url("img/back/pexels-porapak-apichodilok-346731.jpg");
     background-size: cover;
     padding: 90px 0;
 
@@ -218,7 +218,7 @@ p.level {
     width: 93%;
     margin: auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     
 }
 .shortSection > div >div{

@@ -12,6 +12,8 @@ wow = new WOW(
   new Splide( '.splide',  {
     type   : 'loop',
     perPage:1,
+    pagination: false,
+    autoplay: true,
   }  ).mount();
 
 
