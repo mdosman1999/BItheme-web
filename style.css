@@ -369,7 +369,7 @@ p.level {
     align-items: center;
 }
 hr{
-    border: 2px solid #60b7d9 ;
+    border: 2px solid #e39140 ;
     width: 60%;
 }
 
@@ -476,6 +476,15 @@ hr{
 .buttonDownload:hover:after {
 	border-top-color: #4CC713;
 	animation-play-state: running;
+}
+
+.morApp a{
+    width: 20px;
+}
+
+.morApp img{
+    width: 20px;
+    padding: 6px;
 }
 
 /* keyframes for the download icon anim */
